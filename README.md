@@ -1,6 +1,6 @@
 ---
 ---
-<link rel="stylesheet" href="assets/css/styles.scss">
+<link rel="stylesheet" href="assets/css/styles.css">
 
 # Sistema de Manutenções
 
