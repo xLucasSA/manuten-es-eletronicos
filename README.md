@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="assets/css/style.svg" width="0" height="0" alt="css-in-readme">
+<img src="style.svg" width="0" height="0" alt="css-in-readme">
 
 # Sistema de Manutenções
 
