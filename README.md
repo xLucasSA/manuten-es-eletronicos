@@ -1,7 +1,6 @@
 ---
 ---
-
-@import "{{ site.theme }}";
+<link rel="stylesheet" href="assets/css/styles.scss">
 
 # Sistema de Manutenções
 
