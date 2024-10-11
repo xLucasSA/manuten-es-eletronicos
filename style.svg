@@ -1,0 +1,13 @@
+<svg fill="none" viewBox="0 0 400 400" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="0%" height="0%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            html {
+                background-color: black;
+                color: white;
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>

@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="style.svg" width="0" height="0" alt="css-in-readme">
+</div>
+
 # Sistema de Manutenções
 
 Deverá conter área para que os clientes possam acompanhar manutenções e possivelmente terá dashborads. Pode receber vários clientes e também vários produtos com características diferentes
