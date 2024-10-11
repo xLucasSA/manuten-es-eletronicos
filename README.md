@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 # Sistema de Manutenções
 
 Deverá conter área para que os clientes possam acompanhar manutenções e possivelmente terá dashborads. Pode receber vários clientes e também vários produtos com características diferentes
